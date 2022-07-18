@@ -1,5 +1,5 @@
-//Installnpm i express nodemon ejs express-session body-parser uuid
-//ejs allows you to write html and use
+//Install: npm i express nodemon ejs express-session body-parser uuid
+//See EJS doc for syntax
 const express = require('express');
 const app = express();
 const path = require('path');
